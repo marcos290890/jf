@@ -1,0 +1,11 @@
+videos de youtube a mostrar en galeria
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/q0Vm1P9lLXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/jJmxVZHLsg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/9ziP2tiaz2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/1Y04N0ATEwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/PInT-BJ12Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
